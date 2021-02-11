@@ -1,0 +1,5 @@
+# Notebook Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+keys.csv
+twitter_keys.*
